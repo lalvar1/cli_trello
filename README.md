@@ -28,9 +28,3 @@ Available label colors:
 - lime
 - pink
 - black
-
-## Potential Improvements
-- More functionalities/methods to allow creating more objects on Trello
-- Error Handling
-- Unittests
-- Logging --> Metrics for boards
